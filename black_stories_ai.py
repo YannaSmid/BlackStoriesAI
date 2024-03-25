@@ -1,5 +1,14 @@
 import openai
 import os
+"""Before using the application you are required to follow the next steps:
+        1. Generate your API Key in your OpenAI account (with paid credits)
+        2. Install opanai module: pip install -q openai
+        3. Install openai module: pip install openai==0.28
+        4. Install config module: pip install config
+        5. Instal dotenv module: pip install python-dotenv
+        6. Make a .env file and add the line: OPENAI_API_KEY="_insert_your_key_"
+        7. Make a .gitignore file and add the line: .env
+"""
 
 # Open your personal private API Key from the .env file
 openai.api_key = os.getenv("OPENAI_API_KEY")
