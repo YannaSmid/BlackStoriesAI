@@ -16,11 +16,12 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def chatbot():
   # Create a list to store all the messages for context
   messages = [
-    {"role": "system", "content": """You are a playing a riddle game with me. I tell you a riddle and you have to try to solve it by asking me questions.
+    {"role": "system", "content": """You are playing a riddle game with me. I tell you a riddle and you have to solve it by asking me questions.
                                     The riddle tells you the end of a story and you have to find out what lead to this end. 
-                                    After you received the riddle, you have to try to solve the riddle by asking questions. 
-                                    I can only asnwer the questions with yes no or maybe. 
-                                    You will use my answers to solve the riddle."""},
+                                    When I tell you the riddle, you have to try to solve the riddle by asking questions that I can only answer by yes, no or not relevant for the story. 
+                                    You will use my answers to solve the riddle and find the story that lead to the end.
+                                    Do not decide yourself on whether you have solved the riddle or not. 
+                                    I will tell you when you have solved it and then you give me a summary of the solution you have found."""},
   ]
 
   nr = 0 #number of questions asked
