@@ -9,7 +9,7 @@ import os
         6. Make a .env file and add the line: OPENAI_API_KEY="_insert_your_key_"
         7. Make a .gitignore file and add the line: .env
 """
-
+#test
 # Open your personal private API Key from the .env file
 openai.api_key = os.getenv("OPENAI_API_KEY")
     
