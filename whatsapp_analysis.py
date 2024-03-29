@@ -8,7 +8,7 @@ def do_analysis():
     df2 = pd.read_csv(file_path_test, sep=": ", names=['date', 'text'], engine='python')
 
     # get the file for adding the results for the analysis
-    file_path_analysis = path + "\\NHC_GPT.xlsx"
+    file_path_analysis = path + "\\NHC_analysis.xlsx"
     df = pd.read_excel(file_path_analysis, sep=",")
 
     # split into right columns and add column
@@ -41,7 +41,7 @@ def do_analysis():
                "Hints": 'tbd', "Score": 'tbd', "Age": age, "Chat history": chat_history,
                "Questions asked": questions_asked, "Yes": nr_yes, "No": nr_no, "Other": other}
     df.loc[len(df)] = new_row
-    df.to_excel(path + f'\\NHC_GPT.xlsx', index=False)
+    df.to_excel(path + f'\\NHC_analysis.xlsx', index=False)
 
 
 if __name__ == "__main__":

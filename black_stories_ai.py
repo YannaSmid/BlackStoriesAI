@@ -15,7 +15,7 @@ import pandas as pd
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 path = os.getcwd()
-file_path = path + "\\NHC_GPT.xlsx"
+file_path = path + "\\NHC_analysis.xlsx"
 df = pd.read_excel(file_path, sep=",")
 
 def chatbot():
@@ -59,7 +59,7 @@ def chatbot():
                  "Hints": hints, "Score": hints * 5 + nr, "Age": 0, "Chat history": messages,
                  "Questions asked": questions, "Yes": nr_yes, "No": nr_no, "Other": other_answers}
       df.loc[len(df)] = new_row
-      df.to_excel(path + f'\\NHC_GPT.xlsx', index=False)
+      df.to_excel(path + f'\\NHC_analysis.xlsx', index=False)
 
       break
 
