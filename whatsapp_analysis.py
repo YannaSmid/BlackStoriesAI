@@ -17,8 +17,8 @@ def do_analysis():
 
     # get names of the ones in the chat
     names = df2['name'].unique()
-    experimenter_name = names[0]
-    participant_name = names[1]
+    experimenter_name = str(names[0])
+    participant_name = str(names[1])
 
     # make seperate dfs of the questions from the participant & answers of the experimenter
     participant_df = df2[df2['name'].str.contains(participant_name, na=False)]
