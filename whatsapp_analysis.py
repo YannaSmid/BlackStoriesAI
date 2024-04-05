@@ -42,6 +42,7 @@ def do_analysis():
                "Questions asked": questions_asked, "Yes": nr_yes, "No": nr_no, "Other": other}
     df.loc[len(df)] = new_row
     df.to_excel(path + f'\\NHC_analysis.xlsx', index=False)
+    print("Line added to Excel file and analysis completed!")
 
 
 if __name__ == "__main__":
