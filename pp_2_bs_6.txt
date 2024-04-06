@@ -1,0 +1,85 @@
+05/04/2024, 23:00 - Nikki : A dead woman is lying in a sauna; next to her, a water bottle.
+05/04/2024, 23:01 - Joey : Was the woman's death an accident?
+05/04/2024, 23:01 - Nikki : no
+05/04/2024, 23:02 - Joey : Was it a natural death?
+05/04/2024, 23:02 - Nikki : no
+05/04/2024, 23:02 - Joey : Was it suicide?
+05/04/2024, 23:02 - Nikki : no
+05/04/2024, 23:03 - Joey : Was she murdered?
+05/04/2024, 23:03 - Nikki : yes
+05/04/2024, 23:03 - Joey : Did she die in the sauna?
+05/04/2024, 23:03 - Nikki : yes
+05/04/2024, 23:03 - Joey : Was the sauna in a private location?
+05/04/2024, 23:04 - Nikki : not relevant for the story.
+05/04/2024, 23:04 - Joey : Did the murder happen during the day?
+05/04/2024, 23:04 - Nikki : not relevant for the story.
+05/04/2024, 23:04 - Joey : Did she suffocate?
+05/04/2024, 23:05 - Nikki : no
+05/04/2024, 23:05 - Joey : Did she drown?
+05/04/2024, 23:05 - Nikki : no
+05/04/2024, 23:05 - Joey : Was she trapped?
+05/04/2024, 23:05 - Nikki : no
+05/04/2024, 23:06 - Joey : Was she poisoned?
+05/04/2024, 23:06 - Nikki : no
+05/04/2024, 23:06 - Joey : Was she shot?
+05/04/2024, 23:06 - Nikki : no
+05/04/2024, 23:06 - Joey : Was she hit with an item?
+05/04/2024, 23:07 - Nikki : no
+05/04/2024, 23:07 - Joey : Was she stabbed?
+05/04/2024, 23:07 - Nikki : yes
+05/04/2024, 23:08 - Joey : Did the weapon belong to the woman?
+05/04/2024, 23:08 - Nikki : no
+05/04/2024, 23:09 - Joey : Did the murderer bring the weapon?
+05/04/2024, 23:09 - Nikki : yes
+05/04/2024, 23:09 - Joey : Was the weapon a knife?
+05/04/2024, 23:10 - Nikki : no
+05/04/2024, 23:12 - Joey : Was the weapon made of metal?
+05/04/2024, 23:12 - Nikki : no
+05/04/2024, 23:13 - Joey : Was the weapon made of plastic?
+05/04/2024, 23:13 - Nikki : no
+05/04/2024, 23:13 - Joey : Was the weapon made of wood?
+05/04/2024, 23:13 - Nikki : no
+05/04/2024, 23:13 - Joey : Was the weapon made of glass?
+05/04/2024, 23:14 - Nikki : no
+05/04/2024, 23:15 - Joey : Was it a bioweapon?
+05/04/2024, 23:16 - Nikki : no
+05/04/2024, 23:16 - Joey : Was the murderer ever found?
+05/04/2024, 23:16 - Nikki : no
+05/04/2024, 23:16 - Joey : Did anyone witness the murder?
+05/04/2024, 23:17 - Nikki : no
+05/04/2024, 23:17 - Joey : Were there more people around?
+05/04/2024, 23:17 - Nikki : no
+05/04/2024, 23:18 - Joey : Was the weapon left at the scene?
+05/04/2024, 23:18 - Nikki : partly yes
+05/04/2024, 23:20 - Joey : Could the weapon melt?
+05/04/2024, 23:20 - Nikki : yes
+05/04/2024, 23:21 - Joey : Was the weapon made of ice?
+05/04/2024, 23:21 - Nikki : yes
+05/04/2024, 23:21 - Joey : Was the murder premeditated?
+05/04/2024, 23:22 - Nikki : yes
+05/04/2024, 23:22 - Joey : Did the murderer know the woman?
+05/04/2024, 23:23 - Nikki : not relevant for the story.
+05/04/2024, 23:23 - Joey : Was the weapon hidden before the murder?
+05/04/2024, 23:23 - Nikki : no
+05/04/2024, 23:24 - Joey : Was the weapon hidden after the murder?
+05/04/2024, 23:24 - Nikki : no
+05/04/2024, 23:24 - Joey : Was there any evidence left behind besides the water bottle?
+05/04/2024, 23:24 - Nikki : no
+05/04/2024, 23:25 - Joey : Was the weapon somehow related to the water bottle?
+05/04/2024, 23:25 - Nikki : yes
+05/04/2024, 23:25 - Joey : Was the weapon inside the water bottle?
+05/04/2024, 23:26 - Nikki : yes
+05/04/2024, 23:26 - Joey : Did the weapon melt completely?
+05/04/2024, 23:26 - Nikki : yes
+05/04/2024, 23:26 - Joey : So the weapon was made out of ice?
+05/04/2024, 23:27 - Nikki : yes
+05/04/2024, 23:27 - Joey : Was it an icicle?
+05/04/2024, 23:27 - Nikki : yes
+05/04/2024, 23:28 - Joey : Was the water bottle brought by the murderer?
+05/04/2024, 23:28 - Nikki : yes
+05/04/2024, 23:28 - Joey : Was the icicle specially prepared for the murder?
+05/04/2024, 23:29 - Nikki : yes
+05/04/2024, 23:29 - Joey : Did the murderer plan to use the sauna's heat to help melt the weapon?
+05/04/2024, 23:30 - Nikki : yes. You can guess now.
+05/04/2024, 23:35 - Joey : I think I know what happened. The murderer entered the sauna with a water bottle containing an icicle. They stabbed the woman that was also in the sauna and left the water bottle knowing the murder weapon would melt fast. This caused the murder weapon and the murderer to not be discovered
+
